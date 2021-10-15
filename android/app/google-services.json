@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "442919993589",
+    "firebase_url": "https://muebles-3684c.firebaseio.com",
+    "project_id": "muebles-3684c",
+    "storage_bucket": "muebles-3684c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442919993589:android:933cca30b251e20ff585bc",
+        "android_client_info": {
+          "package_name": "com.example.muebles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442919993589-3gvscbgenga0lba6u8juba0sh97jqdvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2yhUOpsgUtn0p07Wl3MSpF2kdHL3LP7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442919993589-3gvscbgenga0lba6u8juba0sh97jqdvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
